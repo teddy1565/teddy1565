@@ -20,9 +20,11 @@ If you are interest about my research, here is my [Blog](https://teddy1565.githu
     </a>
 </p>
 
+<!--
 <a href="https://github.com/teddy1565/qsim" style="display: none;">
     <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d" alt="Gist Card">
 </a>
+-->
 
 ## Skills
 
