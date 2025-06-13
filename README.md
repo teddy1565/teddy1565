@@ -6,7 +6,6 @@ a Maker, System designers, Software engineers, Information security researchers 
 
 If you are interest about my research, here is my [Blog](https://teddy1565.github.io), not often updte.
 
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddy1565&theme=tokyonight_duo" alt="GitHub Streak" style="width: 60%;">
 </p>
@@ -18,50 +17,12 @@ If you are interest about my research, here is my [Blog](https://teddy1565.githu
     <img src="https://komarev.com/ghpvc/?username=teddy1565" alt="Profile Visitor Counter">
 </p>
 
-## Languages
 
-| <img height="28" src="./assets/image/typescript-icon.svg"> | <img height="28" src="./assets/image/c-icon.svg"> | <img height="28" src="./assets/image/cpp-icon.svg"> | <img height="28" src="./assets/image/asm-icon.svg"> | <img height="28" src="./assets/image/python.svg"> |
-| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-| Typescript | C | C++ | Assembly | Python |
+## Skills
 
-## Frameworks & Libraries
-
-| <img height="28" src="./assets/image/angular-icon.svg"> | <img height="28" src="./assets/image/electron-icon.svg"> | <img height="28" src="./assets/image/node-cpp.svg"> | <img height="28" src="./assets/image/Libuv-icon.svg"> | <img height="28" src="./assets/image/v8-outline.svg"> | <img height="28" src="./assets/image/cornerstoneJS-icon.svg"> |
-| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-| Angular | Electron | Node-API | Libuv | V8 | CornerstoneJS |
-
-
-<table style="width: 100%;">
-    <tr style="width: 100%;">
-        <th style="width: 50%;">Languages</th>
-        <th style="width: 50%;">Frameworks & Libraries</th>
-    </tr>
-    <tr style="width: 100%;">
-        <td style="width: 50%;">
-            <table style="width: 100%;">
-                <tr style="width: 100%; text-align: center;">
-                    <th style="text-align: center;">Angular</tdh>
-                    <th style="text-align: center;">Electron</th>
-                    <th style="text-align: center;">Node C++ Addons</th>
-                    <th style="text-align: center;">Libuv</th>
-                    <th style="text-align: center;">V8</th>
-                    <th style="text-align: center;">CornerstoneJS</th>
-                </tr>
-                <tr style="width: 100%; text-align: center;">
-                    <td><img height="28" src="./assets/image/angular-icon.svg"></td>
-                    <td><img height="28" src="./assets/image/electron-icon.svg"></td>
-                    <td><img height="28" src="./assets/image/node-cpp.svg"></td>
-                    <td><img height="28" src="./assets/image/Libuv-icon.svg"></td>
-                    <td><img height="28" src="./assets/image/v8-outline.svg"></td>
-                    <td><img height="28" src="./assets/image/cornerstoneJS-icon.svg"></td>
-                </tr>
-            </table>
-        </td>
-        <td style="width: 50%;">
-            <img src="https://github-readme-stats.vercel.app/api?username=teddy1565&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage,discussions_answered,discussions_started&rank_icon=percentile&include_all_commits=false&hide_rank=false" alt="Teddy's GitHub stats" style="width: 100%; height: 100%;">
-        </td>
-    </tr>
-</table>
+| <img height="28" src="./assets/image/typescript-icon.svg"> | <img height="28" src="./assets/image/c-icon.svg"> | <img height="28" src="./assets/image/cpp-icon.svg"> | <img height="28" src="./assets/image/asm-icon.svg"> | <img height="28" src="./assets/image/python.svg"> | <img height="28" src="./assets/image/angular-icon.svg"> | <img height="28" src="./assets/image/electron-icon.svg"> | <img height="28" src="./assets/image/node-cpp.svg"> | <img height="28" src="./assets/image/Libuv-icon.svg"> | <img height="28" src="./assets/image/v8-outline.svg"> | <img height="28" src="./assets/image/cornerstoneJS-icon.svg"> |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| Typescript | C | C++ | Assembly | Python | Angular | Electron | Node-API | Libuv | V8 | CornerstoneJS |
 
 ---
 
