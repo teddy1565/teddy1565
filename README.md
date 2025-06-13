@@ -6,7 +6,7 @@ If you are interest about my research, here is my [Blog](https://teddy1565.githu
 
 About often, I often use:
 
-| <img height="28" src="./assets/image/nodedotjs.svg"> | <img height="28" src="./assets/image/git.svg"> | <img height="28" src="./assets/image/linux.svg"> | <img height="28" src="./assets/image/cloud.svg">  | <img height="28" src="./assets/image/gnubash.svg"> | <img height="28" src="./assets/image/terminal.svg"> | <img height="28" src="./assets/image/k8s.svg"> | <img height="28" src="./assets/image/mysql.svg"> |
+| <img height="28" src="./assets/image/nodedotjs.svg"> | <img height="28" src="./assets/image/git.svg"> | <img height="28" src="./assets/image/linux.svg"> | <img height="28" src="./assets/image/vspherelogo.svg">  | <img height="28" src="./assets/image/gnubash.svg"> | <img height="28" src="./assets/image/terminal.svg"> | <img height="28" src="./assets/image/k8s.svg"> | <img height="28" src="./assets/image/mysql.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | Node.js | Git | Linux | Virtualize  | Shell Script | Terminal | Cloud | Database |
 
