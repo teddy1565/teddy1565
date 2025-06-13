@@ -6,23 +6,17 @@ a Maker, System designers, Software engineers, Information security researchers 
 
 If you are interest about my research, here is my [Blog](https://teddy1565.github.io), not often updte.
 
-<table style="width: 100%;">
-    <tr>
-        <td colspan="2" style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddy1565&theme=tokyonight_duo" alt="GitHub Streak" style="width: 60%;">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img src="https://github-profile-trophy.vercel.app/?username=teddy1565&column=9" alt="GitHub Trophies" style="width: 100%;">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="text-align: left;">
-            <img src="https://komarev.com/ghpvc/?username=teddy1565" alt="Profile Visitor Counter">
-        </td>
-    </tr>
-</table>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddy1565&theme=tokyonight_duo" alt="GitHub Streak" style="width: 60%;">
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=teddy1565&column=9" alt="GitHub Trophies" style="width: 100%;">
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=teddy1565" alt="Profile Visitor Counter">
+</p>
 
 ## Languages
 
