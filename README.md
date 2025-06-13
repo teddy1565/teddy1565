@@ -8,8 +8,15 @@ If you are interest about my research, here is my [Blog](https://teddy1565.githu
 
 ## Languages
 
-| <img height="28" src="./assets/image/nodedotjs.svg"> | <img height="28" src="./assets/image/c-icon.svg"> | <img height="28" src="./assets/image/cpp-icon.svg"> | <img height="28" src="./assets/image/asm-icon.svg"> | <img height="28" src="./assets/image/python.svg"> |
+| <img height="28" src="./assets/image/typescript-icon.svg"> | <img height="28" src="./assets/image/c-icon.svg"> | <img height="28" src="./assets/image/cpp-icon.svg"> | <img height="28" src="./assets/image/asm-icon.svg"> | <img height="28" src="./assets/image/python.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| Typescript | C | C++ | Assembly | Python |
+
+## Frameworks
+
+| <img height="28" src="./assets/image/angular-icon.svg"> | <img height="28" src="./assets/image/electron-icon.svg"> | 
+| :---------------: | :---------------: |
+| Angular | Electron |
 
 ## Technologies
 
