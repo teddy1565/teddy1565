@@ -1,10 +1,17 @@
-## Teddy Xiong Here 👋
+# Teddy Xiong Here 👋
+
+## About Me
 
 a Maker, System designers, Software engineers, Information security researchers and innovative educators.
 
 If you are interest about my research, here is my [Blog](https://teddy1565.github.io), not often updte.
 
-About often, I often use:
+## Languages
+
+| <img height="28" src="./assets/image/nodedotjs.svg"> | <img height="28" src="./assets/image/c-icon.svg"> | <img height="28" src="./assets/image/cpp-icon.svg"> | <img height="28" src="./assets/image/asm-icon.svg"> | <img height="28" src="./assets/image/python.svg"> |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+
+## Technologies
 
 | <img height="28" src="./assets/image/nodedotjs.svg"> | <img height="28" src="./assets/image/git.svg"> | <img height="28" src="./assets/image/linux.svg"> | <img height="28" src="./assets/image/vspherelogo.svg">  | <img height="28" src="./assets/image/gnubash.svg"> | <img height="28" src="./assets/image/terminal.svg"> | <img height="28" src="./assets/image/k8s.svg"> | <img height="28" src="./assets/image/postgresql-icon.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
