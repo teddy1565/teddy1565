@@ -55,6 +55,28 @@ If you are interest about my research, here is my [Blog](https://teddy1565.githu
     </table>
 </a>
 
+
+<a href="https://github.com/teddy1565#gh-light-mode-only">
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="border: 0;">
+                <img
+                    src="https://github-readme-stats-steel-omega.vercel.app/api?username=teddy1565&show_icons=true&include_all_commits=false&theme=tokyonight&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_answered,discussions_started&disable_animations=false&hide_rank=false#gh-light-mode-only"
+                    alt="Teddy's GitHub stats"
+                    height="370"
+                />
+            </td>
+            <td style="border: 0;">
+                <img
+                    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=teddy1565&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true#gh-light-mode-only"
+                    alt="My Language stats"
+                    width="280"
+                />
+            </td>
+        </tr>
+    </table>
+</a>
+
 <!--
 **teddy1565/teddy1565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
